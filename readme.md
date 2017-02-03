@@ -1,4 +1,4 @@
-# JavaScript Scope & IIFE Assessment
+# JavaScript Scope, IIFE, and Hoisting Assessment
 
 ## Prerequisite
 
